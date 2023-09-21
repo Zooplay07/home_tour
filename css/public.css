@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 9pt;
+	font-family: Arial;
+}
+a {
+	text-decoration: none;
+	font-size: 9pt;
+	font-family: Arial;
+	Color: #333;
+}
+a:hover {
+	color: #f63;
+}
+img, table, tr, td {
+	border: 0;
+}

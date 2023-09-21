@@ -1,0 +1,56 @@
+.menu03_sub01_mid_content_all{
+	position: relative;
+	clear: both;
+	width: 100%;
+	height: 3300px;
+}
+.culture_01 {
+	position: relative;
+	clear: both;
+	width: 100%;
+	height: 3300px;
+	
+}
+#culture_01_img {
+	position: relative;
+	clear: both;
+	width: 1200px;
+	height: 300px;
+	margin: 0 auto;
+}
+#culture_01_img_ment {
+	position: relative;
+	clear: both;
+	width: 1200px;
+	height: 200px;
+	margin: 0 auto;
+}
+#culture_title_01 {
+	position: relative;
+	clear: both;
+	width: 1200px;
+	height: 100px;
+	line-height: 100px;
+	margin: 0 auto;
+	font-size: 20pt;
+	background: #FC0;
+	text-indent: 20px;
+}
+#culture_content_01 {
+	position: relative;
+	clear: both;
+	width: 1200px;
+	height: 1000px;
+	margin: 0 auto;
+	font-size: 14pt;
+	padding-left: 40px;
+}
+#culture_content_02 {
+	position: relative;
+	clear: both;
+	width: 1200px;
+	height: 1500px;
+	margin: 0 auto;
+	font-size: 14pt;
+	padding-left: 40px;
+}
